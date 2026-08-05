@@ -4,7 +4,7 @@ Material de estudio para el curso de Programación Avanzada del Instituto Tecnol
 # Calendario
 | Semana |                             Tema                              |                  Material práctico | Enlace Colab | 
 | :-----------: | :--------------------------------------------------------------: |:----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | 
-|      01       |  Introducción, Definición de Variables           |    [Clase 01](https://github.com/estebangonzalezITM/ProgramacionAvanzada_2026-1/blob/main/Notebooks/01_IntroduccionPython.ipynb) |  <a target="_blank" href="https://colab.research.google.com/github/estebangonzalezITM/ProgramacionAvanzada_2026-1/blob/main/Notebooks/01_IntroduccionPython.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  | 
+|      01       |  Introducción, Definición de Variables           |    [Clase 01](https://github.com/estebangonzalezITM/ProgramacionAvanzada/blob/main/Notebooks/01_IntroduccionPython.ipynb) |  <a target="_blank" href="https://colab.research.google.com/github/estebangonzalezITM/ProgramacionAvanzada/blob/main/Notebooks/01_IntroduccionPython.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  | 
 
 
 
