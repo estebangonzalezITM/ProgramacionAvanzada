@@ -2,7 +2,7 @@
 Material de estudio para el curso de Programación Avanzada del Instituto Tecnológico Metropolitano (ITM).
 
 # Calendario
-| Semana |                             Tema                              |                  Material práctico | Enlace Colab | 
+| Semana |                             Tema                              |                  Material práctico | Colab | 
 | :-----------: | :--------------------------------------------------------------: |:----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | 
 |      01       |  Introducción, Definición de Variables           |    [Clase 01](https://github.com/estebangonzalezITM/ProgramacionAvanzada/blob/main/Notebooks/01_IntroduccionPython.ipynb) |  <a target="_blank" href="https://colab.research.google.com/github/estebangonzalezITM/ProgramacionAvanzada/blob/main/Notebooks/01_IntroduccionPython.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  | 
 
